@@ -2,7 +2,7 @@
   "name": "tagclassname",
   "displayName": "Tag ClassName",
   "description": "This snippet is a useful tool for react developers, allowing the rapid creation of HTML elements with class attributes. When entering the prefix associated with each tag HTML (such as divc for div), the editor automatically inserts the tag with a classname attribute, which is the correct syntax to specify JSX/React classes, instead of the used class attribute in standard HTML.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "publisher": "ea2ba328-a5dd-6a41-b379-64f0401bd2b0",
   "repository": {
