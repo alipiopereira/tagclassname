@@ -36,7 +36,27 @@
   "contributes": {
     "snippets": [
       {
-        "language": "typescript, typescriptreact, javascript, javascriptreact",
+        "language": "typescript",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "jsx",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "tsx",
         "path": "./snippets/snippets.code-snippets"
       }
     ]
