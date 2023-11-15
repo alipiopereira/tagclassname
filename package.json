@@ -35,7 +35,7 @@
   "contributes": {
     "snippets": [
       {
-        "language": "javascript, typescript",
+        "language": "typescript",
         "path": "./snippets/snippets.code-snippets"
       }
     ]
