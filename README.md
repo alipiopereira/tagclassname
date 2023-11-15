@@ -13,6 +13,8 @@ the used "class" attribute in standard HTML.
 | -------: | -------------------------- |
 | `divc →` | `<div className=""></div>` |
 
+![tagc](/assets/tagc.gif)
+
 > List of available tags:
 
 - main
